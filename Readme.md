@@ -73,7 +73,7 @@ sudo ./user_prog 60 1 2 3
 
 ### Kernel Log Output
 
-
+![alt text](image.png)
 
 ### Tested Environment
 ```

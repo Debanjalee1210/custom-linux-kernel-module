@@ -1,0 +1,13 @@
+*.o
+*.o.*
+*.ko
+*.ko.*
+*.mod
+*.mod.*
+*.symvers
+*.order.*
+*.cmd
+*.tmp
+*.json
+modules.order
+user_prog

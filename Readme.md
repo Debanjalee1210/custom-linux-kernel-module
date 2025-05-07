@@ -69,8 +69,8 @@ sudo ./user_prog <PWM> <R_pin> <G_pin> <B_pin>
 Example:
 ```
 sudo ./user_prog 60 1 2 3
-![alt text](image-1.png)
 ```
+![alt text](image-1.png)
 
 ### Kernel Log Output
 

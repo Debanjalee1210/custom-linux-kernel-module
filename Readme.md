@@ -1,6 +1,6 @@
 # Custom Linux Kernel Module – Simulated RGB LED Driver
 
-This project demonstrates a complete Linux kernel module and user-space program for simulating RGB LED control via a character device. It is adapted from a real hardware-based Intel Galileo GPIO project and recreated entirely inside a Linux VirtualBox environment — enabling GPIO/PWM simulation without physical hardware.
+This project demonstrates a complete Linux kernel module and user-space program for simulating RGB LED control via a character device.It is created entirely inside a Linux VirtualBox environment — enabling GPIO/PWM simulation without physical hardware.
 
 ---
 
